@@ -1,1 +1,2 @@
-#this is my local repo
+# this is my local repo.git status
+git
